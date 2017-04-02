@@ -1,4 +1,4 @@
-# Örnek Assertion Kullanýmlarý
+# Ã–rnek Assertion KullanÄ±mlarÄ±
 ## 1- Checks that two primitives/objects are equal.
 void assertEquals(boolean expected, boolean actual)
 
